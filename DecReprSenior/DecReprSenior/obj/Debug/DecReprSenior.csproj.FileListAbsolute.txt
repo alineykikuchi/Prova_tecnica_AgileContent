@@ -1,0 +1,7 @@
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\DecReprSenior\DecReprSenior\bin\Debug\DecReprSenior.exe.config
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\DecReprSenior\DecReprSenior\bin\Debug\DecReprSenior.exe
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\DecReprSenior\DecReprSenior\bin\Debug\DecReprSenior.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\DecReprSenior\DecReprSenior\obj\Debug\DecReprSenior.csprojAssemblyReference.cache
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\DecReprSenior\DecReprSenior\obj\Debug\DecReprSenior.csproj.CoreCompileInputs.cache
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\DecReprSenior\DecReprSenior\obj\Debug\DecReprSenior.exe
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\DecReprSenior\DecReprSenior\obj\Debug\DecReprSenior.pdb

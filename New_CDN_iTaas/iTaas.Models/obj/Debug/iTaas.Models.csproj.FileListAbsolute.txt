@@ -1,0 +1,6 @@
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Models\bin\Debug\iTaas.Models.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Models\bin\Debug\iTaas.Models.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Models\obj\Debug\iTaas.Models.csprojAssemblyReference.cache
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Models\obj\Debug\iTaas.Models.csproj.CoreCompileInputs.cache
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Models\obj\Debug\iTaas.Models.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Models\obj\Debug\iTaas.Models.pdb

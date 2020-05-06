@@ -1,0 +1,12 @@
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\bin\Debug\iTaas.Business.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\bin\Debug\iTaas.Business.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\bin\Debug\AutoMapper.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\bin\Debug\iTaas.Models.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\bin\Debug\iTaas.Models.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\bin\Debug\AutoMapper.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\bin\Debug\AutoMapper.xml
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\obj\Debug\iTaas.Business.csprojAssemblyReference.cache
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\obj\Debug\iTaas.Business.csproj.CoreCompileInputs.cache
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\obj\Debug\iTaas.Business.csproj.CopyComplete
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\obj\Debug\iTaas.Business.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\iTaas.Business\obj\Debug\iTaas.Business.pdb

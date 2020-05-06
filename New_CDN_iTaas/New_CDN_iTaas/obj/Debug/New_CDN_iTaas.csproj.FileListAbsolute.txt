@@ -1,0 +1,15 @@
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\New_CDN_iTaas.exe.config
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\New_CDN_iTaas.exe
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\New_CDN_iTaas.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\obj\Debug\New_CDN_iTaas.csprojAssemblyReference.cache
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\obj\Debug\New_CDN_iTaas.csproj.CoreCompileInputs.cache
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\obj\Debug\New_CDN_iTaas.exe
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\obj\Debug\New_CDN_iTaas.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\AutoMapper.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\iTaas.Business.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\iTaas.Models.dll
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\iTaas.Business.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\AutoMapper.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\AutoMapper.xml
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\bin\Debug\iTaas.Models.pdb
+C:\Users\YumiKikuchi.DESKTOP-KH5C1T2\source\repos\New_CDN_iTaas\New_CDN_iTaas\obj\Debug\New_CDN_iTaas.csproj.CopyComplete
